@@ -1,0 +1,46 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    margin: 10px;
+    padding: 20px;
+    background-color: #E7E9EB;
+    border-radius: 5px;
+    width: 90%;
+}
+
+.title{
+    font-size: 16pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content{
+    font-size: 12pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kotakgarishijau{
+    background-color: white;
+    border-left: 3px green solid;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kotakputih{
+    background-color: white;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: #08b374;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+}
